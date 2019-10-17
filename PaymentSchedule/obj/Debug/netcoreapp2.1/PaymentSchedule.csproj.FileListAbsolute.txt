@@ -1,0 +1,16 @@
+D:\Code\PaymentSchedule\PaymentSchedule\obj\Debug\netcoreapp2.1\PaymentSchedule.RazorAssemblyInfo.cache
+D:\Code\PaymentSchedule\PaymentSchedule\obj\Debug\netcoreapp2.1\PaymentSchedule.RazorAssemblyInfo.cs
+D:\Code\PaymentSchedule\PaymentSchedule\obj\Debug\netcoreapp2.1\PaymentSchedule.AssemblyInfoInputs.cache
+D:\Code\PaymentSchedule\PaymentSchedule\obj\Debug\netcoreapp2.1\PaymentSchedule.AssemblyInfo.cs
+D:\Code\PaymentSchedule\PaymentSchedule\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\Code\PaymentSchedule\PaymentSchedule\bin\Debug\netcoreapp2.1\appsettings.json
+D:\Code\PaymentSchedule\PaymentSchedule\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\Code\PaymentSchedule\PaymentSchedule\bin\Debug\netcoreapp2.1\PaymentSchedule.deps.json
+D:\Code\PaymentSchedule\PaymentSchedule\bin\Debug\netcoreapp2.1\PaymentSchedule.runtimeconfig.json
+D:\Code\PaymentSchedule\PaymentSchedule\bin\Debug\netcoreapp2.1\PaymentSchedule.runtimeconfig.dev.json
+D:\Code\PaymentSchedule\PaymentSchedule\bin\Debug\netcoreapp2.1\PaymentSchedule.dll
+D:\Code\PaymentSchedule\PaymentSchedule\bin\Debug\netcoreapp2.1\PaymentSchedule.pdb
+D:\Code\PaymentSchedule\PaymentSchedule\obj\Debug\netcoreapp2.1\PaymentSchedule.RazorTargetAssemblyInfo.cache
+D:\Code\PaymentSchedule\PaymentSchedule\obj\Debug\netcoreapp2.1\PaymentSchedule.dll
+D:\Code\PaymentSchedule\PaymentSchedule\obj\Debug\netcoreapp2.1\PaymentSchedule.pdb
+D:\Code\PaymentSchedule\PaymentSchedule\obj\Debug\netcoreapp2.1\PaymentSchedule.csprojAssemblyReference.cache

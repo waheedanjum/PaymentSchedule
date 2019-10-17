@@ -1,0 +1,22 @@
+How to Run?
+
+This project was written using .NET Core 2.1 and Visal Studio Code. The back-end is a .NET Core Restful API which connects with SQL Server
+Viva Entityframework Core.
+
+The Front-End is build in Angular 8.
+
+step-1:  Please open the PaymentSchedule.sln  file in Visual Studio 2017 or 2019. I have written in VS2019.
+
+Step2: Please go the package manager console and run Commands
+
+Add-Migration Initial
+Update-Database
+
+Step 3: Inside the Project a folder name "Web" has Angular APP. Please exclude the Web folder in Visual STudio and Build and Run
+ the solution. It shall lauch the API on  "https://localhost:44307/api/Vehicels"
+
+Step-4 Please open the visual studio code and navigation to the \PaymentSchedule\Web\PaymentWeb folder and run the following commands
+     npm install
+     ng server -o  The project will start running
+
+
